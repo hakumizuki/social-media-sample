@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>570953348553-g3p5la6mf4slo851h76arforldf2qikh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.570953348553-g3p5la6mf4slo851h76arforldf2qikh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAKJLkNtMiXdwFw7-DJWqq2r9JpVntZ40Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>570953348553</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waterfort.social-media-sample</string>
+	<key>PROJECT_ID</key>
+	<string>social-media-sample-3bcc2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-media-sample-3bcc2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:570953348553:ios:e7f899419237cff930a418</string>
+	<key>DATABASE_URL</key>
+	<string>https://social-media-sample-3bcc2.firebaseio.com</string>
+</dict>
+</plist>
